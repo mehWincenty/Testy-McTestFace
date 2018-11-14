@@ -1,6 +1,8 @@
 # Testy-McTestFace
 what a name
 
-Wincenty Okoń
+Wincenty Okoniewicz
 
 E L O S Z K A
+
+hejeczka
